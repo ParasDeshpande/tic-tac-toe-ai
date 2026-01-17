@@ -1,0 +1,6 @@
+# No external dependencies required for basic version
+# Python 3.6+ recommended
+
+# Optional dependencies for enhanced features:
+# pygame==2.5.2  # For GUI version
+# numpy==1.24.3  # For advanced AI improvements
